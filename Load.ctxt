@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Load()
+comment1.params=
+comment1.target=Portfolio\ getPortfolio()
+comment2.params=
+comment2.target=Stock[]\ getMarketData()
+numComments=3

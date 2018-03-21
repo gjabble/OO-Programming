@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Stock(java.lang.String)
+comment1.params=
+comment1.target=double\ getValue()
+comment10.params=x
+comment10.target=void\ setQuantity(int)
+comment11.params=
+comment11.target=void\ updateValue()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment4.params=
+comment4.target=java.lang.String\ getCommentary()
+comment5.params=s
+comment5.target=void\ setCommentary(java.lang.String)
+comment6.params=p\ x
+comment6.target=void\ buy(Portfolio,\ int)
+comment7.params=p\ x
+comment7.target=void\ sell(Portfolio,\ int)
+comment8.params=x
+comment8.target=void\ setValue(double)
+comment9.params=
+comment9.target=double\ getTotalValue()
+numComments=12
